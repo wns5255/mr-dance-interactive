@@ -1,0 +1,49 @@
+# Unity generated
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# IDE
+.vs/
+.idea/
+*.csproj
+*.sln
+*.user
+*.unityproj
+*.booproj
+*.svd
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Big media / packages
+*.unitypackage
+*.mp4
+*.mov
+*.mkv
+*.wav
+*.zip
+*.7z
+
+# ML models (추천: Release로)
+*.onnx
+*.pt
+*.pth
+*.tflite
+*.pkl
+
+# Secrets
+.env
+.env.*
+*.key
+*.pem
+
+# Python
+__pycache__/
+*.pyc
+.venv/
