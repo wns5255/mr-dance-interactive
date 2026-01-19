@@ -13,9 +13,9 @@
 
 ## 📸 Project Showcase
 <!-- 실제 스크린샷/데모가 있으면 아래 링크를 교체하세요 -->
-<img width="813" height="630" alt="image" src="https://github.com/user-attachments/assets/31a94b14-6eb7-4090-b1e5-b8788551faa6" />
-<img width="813" height="630" alt="image" src="https://github.com/user-attachments/assets/c27126a6-de46-4e08-b7cb-9c885401cecf" />
-<img width="1250" height="600" alt="image" src="https://github.com/user-attachments/assets/40b9b730-9a76-4e0c-bc2f-59fc08ab5c65" />
+<img width="400" height="315" alt="image" src="https://github.com/user-attachments/assets/31a94b14-6eb7-4090-b1e5-b8788551faa6" />
+<img width="400" height="315" alt="image" src="https://github.com/user-attachments/assets/c27126a6-de46-4e08-b7cb-9c885401cecf" />
+<img width="625" height="300" alt="image" src="https://github.com/user-attachments/assets/40b9b730-9a76-4e0c-bc2f-59fc08ab5c65" />
 
 <br/>
 
