@@ -15,7 +15,7 @@
 <!-- 실제 스크린샷/데모가 있으면 아래 링크를 교체하세요 -->
 ![Demo Preview](https://github.com/user-attachments/assets/REPLACE_WITH_YOUR_ASSET_1)
 ![Demo Preview](https://github.com/user-attachments/assets/REPLACE_WITH_YOUR_ASSET_2)
-
+[KakaoTalk_20201026_120652869.mp4](attachment:cdae79dd-1b3e-4ba3-9290-2a2939e07418:KakaoTalk_20201026_120652869.mp4)
 <br/>
 
 ## 📝 Introduction
