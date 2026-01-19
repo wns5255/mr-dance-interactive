@@ -13,9 +13,10 @@
 
 ## 📸 Project Showcase
 <!-- 실제 스크린샷/데모가 있으면 아래 링크를 교체하세요 -->
-![Demo Preview](https://github.com/user-attachments/assets/REPLACE_WITH_YOUR_ASSET_1)
-![Demo Preview](https://github.com/user-attachments/assets/REPLACE_WITH_YOUR_ASSET_2)
-[KakaoTalk_20201026_120652869.mp4](attachment:cdae79dd-1b3e-4ba3-9290-2a2939e07418:KakaoTalk_20201026_120652869.mp4)
+<img width="1626" height="1261" alt="image" src="https://github.com/user-attachments/assets/31a94b14-6eb7-4090-b1e5-b8788551faa6" />
+<img width="1527" height="1261" alt="image" src="https://github.com/user-attachments/assets/c27126a6-de46-4e08-b7cb-9c885401cecf" />
+<img width="2554" height="1198" alt="image" src="https://github.com/user-attachments/assets/40b9b730-9a76-4e0c-bc2f-59fc08ab5c65" />
+
 <br/>
 
 ## 📝 Introduction
