@@ -161,7 +161,7 @@ flowchart LR
 ## 🚀 How to Run
 1. Clone this repository.
 ```bash
-   git clone https://github.com/<YOUR_ACCOUNT>/mr-dance-interactive.git
+   git clone https://github.com/wns5255/mr-dance-interactive.git
 ```
 2. Unity로 프로젝트 열기
   * Unity 2019.4.x LTS 권장
